@@ -8,7 +8,7 @@
 
 I build practical systems that turn messy information into structured, validated and usable operations.
 
-[Portfolio](https://omarhijazi01.github.io) · [LinkedIn](https://www.linkedin.com/in/omar-hijazi-8717a7279) · [Gulf Invoice Bridge](https://gulf-invoice-bridge.vercel.app)
+[Portfolio](https://omarhijazi01.github.io) · [LinkedIn](https://www.linkedin.com/in/omar-hijazi-8717a7279) · [Gulf Invoice Bridge](https://gulf-invoice-bridge.omarmaheer921.workers.dev)
 
 </div>
 
@@ -45,7 +45,7 @@ A full-stack invoice workflow that moves documents through extraction, normaliza
 
 **Stack:** React · TypeScript · FastAPI · Python · SQLite · REST APIs
 
-- [Live demo](https://gulf-invoice-bridge.vercel.app)
+- [Live demo](https://gulf-invoice-bridge.omarmaheer921.workers.dev)
 - [Repository](https://github.com/omarhijazi01/Gulf-Invoice-Bridge)
 - [Portfolio case study](https://omarhijazi01.github.io/#projects)
 
